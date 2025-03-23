@@ -1,0 +1,17 @@
+# Cognitive personalization for online microtask labor platforms: A systematic literature review
+
+Paulino, D., Correia, A., Barroso, J. _et al._ Cognitive personalization for online microtask labor platforms: A systematic literature review. _User Model User-Adap Inter_ **34**, 617–658 (2024). https://doi.org/10.1007/s11257-023-09383-w
+## 1. Fichamento de Conteúdo
+
+O artigo busca compreender como a personalização cognitiva pode melhorar o mapeamento de tarefas em plataformas de microtarefas online, considerando que a disparidade nas habilidades cognitivas e a complexidade das tarefas podem ocasionar problemas de comunicação e desalinhamento entre as equipes. O texto discute como a atribuição de tarefas de acordo com o perfil cognitivo do colaborador pode auxiliar na performance e motivação no ambiente de trabalho digital. O estudo investiga quais métodos de avaliação, como usability testing e self-assessment, podem ser empregados para validar a personalização cognitiva, além de mapear as técnicas e ferramentas atualmente utilizadas para identificar o perfil cognitivo dos trabalhadores. Os autores utilizaram o framework PICO para comparar como a intervenção proposta impacta o público-alvo e os resultados obtidos. No estudo, foi elucidado que a aplicação de testes cognitivos breves e métodos de autoavaliação pode melhorar significativamente a correspondência entre as habilidades dos colaboradores e as tarefas propostas, resultando em um desempenho superior, maior satisfação e engajamento dos trabalhadores. Além disso, a revisão sistemática destacou lacunas na literatura que apontam para a necessidade de pesquisas futuras focadas na integração de métodos de personalização cognitiva com tecnologias emergentes, visando um mapeamento mais preciso das habilidades e uma alocação de tarefas ainda mais eficaz, beneficiando tanto os colaboradores quanto as organizações.
+## 2. Fichamento Bibliográfico 
+
+- _Self-assessment_ (avaliação própria): No contexto deste estudo, refere-se ao preenchimento de questionários destinados a identificar o perfil cognitivo do colaborador. (página 17)
+- _Cognitive bias_ (viés cognitivo): Trata-se do desvio natural no processo de julgamento, decorrente da interpretação subjetiva do indivíduo em relação ao problema. (página 18)
+- _Cognitive styles_ (estilos cognitivos): Denota a maneira pela qual um indivíduo prefere ou tem o hábito de pensar, lembrar e associar informações de forma geral. (página 17)
+## 3. Fichamento de Citações 
+
+* "_Adaptation of technology refers to matching the system attributes to the user abilities (Ahmi and Mohamad 2016), which can be done through personalization or customization._"
+* _"In Estellés-Arolas and González-Ladrón-de-Guevara (2012), crowdsourcing is defined as an online activity where a person or organization proposes the assignment of a task to a group of individuals that must receive some compensation."_
+* _"Personalization in computer systems is defined as the process of adjusting the functionality or the interface to increase personal relevance from the user’s perspective."_
+* _"A significant difference between personalization and customizationis in the adaptation role: While personalization is done implicitly by the system, customization is done explicitly by the user."_
